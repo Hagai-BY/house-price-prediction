@@ -49,3 +49,6 @@ This project includes:
 ### ✅ **Clone the repository:**
 ```bash
 git clone https://github.com/Hagai-BY/house-price-prediction.git
+
+git lfs install
+
